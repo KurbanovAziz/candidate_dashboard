@@ -1,5 +1,6 @@
 import 'package:candidate_dashboard/core/di/service_locator.dart';
 import 'package:candidate_dashboard/core/extensions/build_context_ext.dart';
+import 'package:candidate_dashboard/core/router/app_route_path.dart';
 import 'package:candidate_dashboard/core/theme/theme_controller.dart';
 import 'package:candidate_dashboard/core/widgets/base_app_input.dart';
 import 'package:candidate_dashboard/data/models/candidate.dart';
@@ -9,6 +10,7 @@ import 'package:candidate_dashboard/features/candidates_list/bloc/candidates_lis
 import 'package:candidate_dashboard/features/candidates_list/widgets/candidate_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:go_router/go_router.dart';
 import 'package:shimmer/shimmer.dart';
 
 class CandidatesListPage extends StatefulWidget {
@@ -418,7 +420,8 @@ class _CandidatesResult extends StatelessWidget {
           return CandidateCard(
             key: ValueKey(candidate.id),
             candidate: candidate,
-            onTap: () {},
+            onTap: () =>
+                context.push(AppRoutePath.candidateDetail(candidate.id)),
           );
         },
       ),
