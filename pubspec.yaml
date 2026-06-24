@@ -21,6 +21,23 @@ dependencies:
   hive_flutter: ^1.1.0
   path_provider: ^2.1.5
 
+  # UI
+  shimmer: ^3.0.0
+
+  # State management
+  flutter_bloc: ^9.1.1
+  bloc_concurrency: ^0.3.0
+  equatable: ^2.0.7
+
+  # Navigation
+  go_router: ^17.0.1
+
+  # Dependency injection
+  get_it: ^9.2.1
+
+  # Utils
+  collection: ^1.19.1
+
   # Code generation annotations
   freezed_annotation: ^2.4.4
   json_annotation: ^4.9.0
