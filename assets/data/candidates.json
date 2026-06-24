@@ -1,0 +1,1467 @@
+[
+  {
+    "id": "маматов_1",
+    "name": "Маматов Кирилл",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Маматов_Кирилл.pdf",
+    "email": "маматов1@email.com",
+    "phone": "+996 574 444-204",
+    "city": "Бишкек",
+    "tg": "@маматов_dev",
+    "exp": [
+      [
+        "2022-05 — н.в.",
+        "MobileLab",
+        "Mobile Developer",
+        "1.9 г."
+      ]
+    ],
+    "total_exp": "~5.2 г.",
+    "stack": "Flutter, Dart, BLoC, Dio, REST API, Firebase, SharedPreferences, Provider — widget-тесты не упомянуты",
+    "edu": "МУК, Программная инженерия, 2020",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.2 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "go_router/AutoRoute — как работаете с deep links?",
+      "Clean Architecture — как организуете слои и DI?"
+    ],
+    "status": "invited",
+    "date_added": "2026-01-24"
+  },
+  {
+    "id": "асанов_2",
+    "name": "Асанов Аман",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Асанов_Аман.pdf",
+    "email": "асанов2@email.com",
+    "phone": "+996 572 171-146",
+    "city": "Джалал-Абад",
+    "tg": "@асанов_dev",
+    "exp": [
+      [
+        "2025-06 — н.в.",
+        "RedMobile",
+        "Mobile Developer",
+        "1.6 г."
+      ]
+    ],
+    "total_exp": "~5.9 г.",
+    "stack": "Flutter, Dart, Riverpod, Dio, REST API, Firebase, Drift, go_router, injectable, Freezed, тесты (bloc_test, mocktail)",
+    "edu": "КНУ, Программная инженерия, 2022",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.9 г.",
+    "questions": [
+      "Тестирование во Flutter — какой опыт (unit/widget)?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "review",
+    "date_added": "2026-01-22"
+  },
+  {
+    "id": "бакиров_3",
+    "name": "Бакиров Руслан",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Бакиров_Руслан.pdf",
+    "email": "бакиров3@email.com",
+    "phone": "+996 569 750-275",
+    "city": "Каракол",
+    "tg": "@бакиров_dev",
+    "exp": [
+      [
+        "2021-05 — н.в.",
+        "O!Bank",
+        "Flutter Developer",
+        "1.2 г."
+      ]
+    ],
+    "total_exp": "~4.5 г.",
+    "stack": "Flutter, Dart, Riverpod, Dio, REST API, Firebase, Drift, go_router, injectable, Freezed, тесты (bloc_test, mocktail)",
+    "edu": "КНУ, Программная инженерия, 2021",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.5 г.",
+    "questions": [
+      "CI/CD для мобильных релизов — настраивали?",
+      "Нативная интеграция (platform channels) — был опыт?"
+    ],
+    "status": "invited",
+    "date_added": "2026-06-27"
+  },
+  {
+    "id": "абдыкаримов_4",
+    "name": "Абдыкаримов Азамат",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Абдыкаримов_Азамат.pdf",
+    "email": "абдыкаримов4@email.com",
+    "phone": "+996 556 680-997",
+    "city": "Джалал-Абад",
+    "tg": "@абдыкаримов_dev",
+    "exp": [
+      [
+        "2022-07 — н.в.",
+        "DigitalKG",
+        "Flutter Developer",
+        "2.1 г."
+      ]
+    ],
+    "total_exp": "~3.3 г.",
+    "stack": "Flutter, Dart, BLoC, Dio, REST API, Firebase, SharedPreferences, Provider — widget-тесты не упомянуты",
+    "edu": "АУЦА, Программная инженерия, 2021",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.3 г.",
+    "questions": [
+      "CI/CD для мобильных релизов — настраивали?",
+      "Нативная интеграция (platform channels) — был опыт?",
+      "Оптимизация производительности списков — что применяли?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-02-18"
+  },
+  {
+    "id": "кадыров_5",
+    "name": "Кадыров Тимур",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Кадыров_Тимур.pdf",
+    "email": "кадыров5@email.com",
+    "phone": "+996 577 212-256",
+    "city": "Джалал-Абад",
+    "tg": "@кадыров_dev",
+    "exp": [
+      [
+        "2023-07 — н.в.",
+        "SoftLine",
+        "Mobile Developer",
+        "2.0 г."
+      ],
+      [
+        "2021-09 — 2023",
+        "StartupHub",
+        "Flutter Developer",
+        "2.5 г."
+      ]
+    ],
+    "total_exp": "~5.0 г.",
+    "stack": "Flutter, Dart, GetX, Dio, REST, Firebase — тесты и DI не описаны",
+    "edu": "КНУ, Программная инженерия, 2023",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.0 г.",
+    "questions": [
+      "Тестирование во Flutter — какой опыт (unit/widget)?",
+      "Нативная интеграция (platform channels) — был опыт?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-05-18"
+  },
+  {
+    "id": "иванов_6",
+    "name": "Иванов Аман",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Иванов_Аман.pdf",
+    "email": "иванов6@email.com",
+    "phone": "+996 576 754-619",
+    "city": "Каракол",
+    "tg": "@иванов_dev",
+    "exp": [
+      [
+        "2022-06 — н.в.",
+        "StartupHub",
+        "Junior Flutter Developer",
+        "2.3 г."
+      ],
+      [
+        "2023-01 — 2025",
+        "O!Bank",
+        "Junior Flutter Developer",
+        "1.4 г."
+      ],
+      [
+        "2021-09 — 2020",
+        "Bilim Tech",
+        "Junior Flutter Developer",
+        "2.4 г."
+      ]
+    ],
+    "total_exp": "~4.7 г.",
+    "stack": "Flutter, Dart, BLoC, Clean Architecture, Dio/Retrofit, REST API, Firebase, Hive, go_router, get_it, Freezed, unit/widget tests",
+    "edu": "КНУ, Программная инженерия, 2021",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.7 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "review",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "соколов_7",
+    "name": "Соколов Иван",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Соколов_Иван.pdf",
+    "email": "соколов7@email.com",
+    "phone": "+996 578 680-180",
+    "city": "Бишкек",
+    "tg": "@соколов_dev",
+    "exp": [
+      [
+        "2022-04 — н.в.",
+        "TechCorp",
+        "Mobile Developer",
+        "2.4 г."
+      ]
+    ],
+    "total_exp": "~3.3 г.",
+    "stack": "Flutter, Dart, BLoC, Clean Architecture, Dio/Retrofit, REST API, Firebase, Hive, go_router, get_it, Freezed, unit/widget tests",
+    "edu": "МУК, Программная инженерия, 2020",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.3 г.",
+    "questions": [
+      "Clean Architecture — как организуете слои и DI?",
+      "Тестирование во Flutter — какой опыт (unit/widget)?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-05-15"
+  },
+  {
+    "id": "джолдошев_8",
+    "name": "Джолдошев Руслан",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Джолдошев_Руслан.pdf",
+    "email": "джолдошев8@email.com",
+    "phone": "+996 562 787-765",
+    "city": "Алматы",
+    "tg": "@джолдошев_dev",
+    "exp": [
+      [
+        "2025-04 — н.в.",
+        "O!Bank",
+        "Junior Flutter Developer",
+        "2.4 г."
+      ]
+    ],
+    "total_exp": "~5.5 г.",
+    "stack": "Flutter, Dart, Riverpod, Dio, REST API, Firebase, Drift, go_router, injectable, Freezed, тесты (bloc_test, mocktail)",
+    "edu": "МУК, Программная инженерия, 2024",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.5 г.",
+    "questions": [
+      "CI/CD для мобильных релизов — настраивали?",
+      "BLoC vs Riverpod — чем руководствуетесь при выборе?"
+    ],
+    "status": "review",
+    "date_added": "2026-02-12"
+  },
+  {
+    "id": "иванов_9",
+    "name": "Иванов Эмир",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Иванов_Эмир.pdf",
+    "email": "иванов9@email.com",
+    "phone": "+996 568 584-348",
+    "city": "Токмок",
+    "tg": "@иванов_dev",
+    "exp": [
+      [
+        "2020-01 — н.в.",
+        "FinApp",
+        "Flutter Developer",
+        "0.9 г."
+      ],
+      [
+        "2022-02 — 2024",
+        "FinApp",
+        "Junior Flutter Developer",
+        "2.3 г."
+      ],
+      [
+        "2021-09 — 2021",
+        "O!Bank",
+        "Cross-platform Developer",
+        "1.8 г."
+      ]
+    ],
+    "total_exp": "~4.4 г.",
+    "stack": "Flutter, Dart, BLoC, Dio, REST API, Firebase, SharedPreferences, Provider — widget-тесты не упомянуты",
+    "edu": "МУК, Программная инженерия, 2023",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.4 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "BLoC vs Riverpod — чем руководствуетесь при выборе?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-03-23"
+  },
+  {
+    "id": "бакиров_10",
+    "name": "Бакиров Чынгыз",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Бакиров_Чынгыз.pdf",
+    "email": "бакиров10@email.com",
+    "phone": "+996 577 177-553",
+    "city": "Токмок",
+    "tg": "@бакиров_dev",
+    "exp": [
+      [
+        "2025-02 — н.в.",
+        "TechCorp",
+        "Flutter Engineer",
+        "1.8 г."
+      ],
+      [
+        "2020-04 — 2021",
+        "FinApp",
+        "Cross-platform Developer",
+        "2.0 г."
+      ],
+      [
+        "2023-03 — 2022",
+        "CloudMobile",
+        "Mobile Developer",
+        "1.4 г."
+      ]
+    ],
+    "total_exp": "~5.5 г.",
+    "stack": "Flutter, Dart, BLoC, Dio, REST API, Firebase, SharedPreferences, Provider — widget-тесты не упомянуты",
+    "edu": "КРСУ, Программная инженерия, 2020",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.5 г.",
+    "questions": [
+      "BLoC vs Riverpod — чем руководствуетесь при выборе?",
+      "Оптимизация производительности списков — что применяли?",
+      "Офлайн-режим и кэширование — как реализовывали?"
+    ],
+    "status": "new",
+    "date_added": "2026-01-17"
+  },
+  {
+    "id": "касымов_11",
+    "name": "Касымов Бакыт",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Касымов_Бакыт.pdf",
+    "email": "касымов11@email.com",
+    "phone": "+996 571 835-598",
+    "city": "Ош",
+    "tg": "@касымов_dev",
+    "exp": [
+      [
+        "2021-07 — н.в.",
+        "TechCorp",
+        "Flutter Engineer",
+        "2.3 г."
+      ],
+      [
+        "2023-05 — 2023",
+        "O!Bank",
+        "Cross-platform Developer",
+        "1.0 г."
+      ]
+    ],
+    "total_exp": "~3.9 г.",
+    "stack": "Flutter, Dart, BLoC, Clean Architecture, Dio/Retrofit, REST API, Firebase, Hive, go_router, get_it, Freezed, unit/widget tests",
+    "edu": "КНУ, Программная инженерия, 2022",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.9 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "BLoC vs Riverpod — чем руководствуетесь при выборе?"
+    ],
+    "status": "new",
+    "date_added": "2026-06-20"
+  },
+  {
+    "id": "смирнов_12",
+    "name": "Смирнов Алексей",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Смирнов_Алексей.pdf",
+    "email": "смирнов12@email.com",
+    "phone": "+996 571 697-678",
+    "city": "Каракол",
+    "tg": "@смирнов_dev",
+    "exp": [
+      [
+        "2024-02 — н.в.",
+        "Bilim Tech",
+        "Mobile Developer",
+        "0.8 г."
+      ],
+      [
+        "2020-04 — 2023",
+        "StartupHub",
+        "Cross-platform Developer",
+        "0.6 г."
+      ],
+      [
+        "2024-01 — 2024",
+        "StartupHub",
+        "Flutter Engineer",
+        "1.0 г."
+      ]
+    ],
+    "total_exp": "~4.3 г.",
+    "stack": "Flutter, Dart, GetX, Dio, REST, Firebase — тесты и DI не описаны",
+    "edu": "АУЦА, Программная инженерия, 2022",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.3 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "Оптимизация производительности списков — что применяли?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "invited",
+    "date_added": "2026-02-18"
+  },
+  {
+    "id": "токтосунов_13",
+    "name": "Токтосунов Адиль",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Токтосунов_Адиль.pdf",
+    "email": "токтосунов13@email.com",
+    "phone": "+996 558 235-457",
+    "city": "Бишкек",
+    "tg": "@токтосунов_dev",
+    "exp": [
+      [
+        "2020-01 — н.в.",
+        "CloudMobile",
+        "Cross-platform Developer",
+        "1.1 г."
+      ],
+      [
+        "2020-02 — 2024",
+        "FinApp",
+        "Cross-platform Developer",
+        "2.5 г."
+      ]
+    ],
+    "total_exp": "~4.7 г.",
+    "stack": "Flutter, Dart, Riverpod, Dio, REST API, Firebase, Drift, go_router, injectable, Freezed, тесты (bloc_test, mocktail)",
+    "edu": "КНУ, Программная инженерия, 2022",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.7 г.",
+    "questions": [
+      "Офлайн-режим и кэширование — как реализовывали?",
+      "Тестирование во Flutter — какой опыт (unit/widget)?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-05-19"
+  },
+  {
+    "id": "кузнецов_14",
+    "name": "Кузнецов Максим",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Кузнецов_Максим.pdf",
+    "email": "кузнецов14@email.com",
+    "phone": "+996 566 600-357",
+    "city": "Токмок",
+    "tg": "@кузнецов_dev",
+    "exp": [
+      [
+        "2025-02 — н.в.",
+        "MobileLab",
+        "Junior Flutter Developer",
+        "1.1 г."
+      ],
+      [
+        "2020-09 — 2021",
+        "DigitalKG",
+        "Junior Flutter Developer",
+        "0.7 г."
+      ],
+      [
+        "2025-06 — 2021",
+        "Akchabar",
+        "Junior Flutter Developer",
+        "1.7 г."
+      ]
+    ],
+    "total_exp": "~4.1 г.",
+    "stack": "Flutter, Dart, GetX, Dio, REST, Firebase — тесты и DI не описаны",
+    "edu": "КГТУ, Программная инженерия, 2020",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.1 г.",
+    "questions": [
+      "go_router/AutoRoute — как работаете с deep links?",
+      "CI/CD для мобильных релизов — настраивали?",
+      "Clean Architecture — как организуете слои и DI?"
+    ],
+    "status": "new",
+    "date_added": "2026-01-20"
+  },
+  {
+    "id": "токтосунов_15",
+    "name": "Токтосунов Талант",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Токтосунов_Талант.pdf",
+    "email": "токтосунов15@email.com",
+    "phone": "+996 553 177-807",
+    "city": "Ош",
+    "tg": "@токтосунов_dev",
+    "exp": [
+      [
+        "2024-07 — н.в.",
+        "Devs.kg",
+        "Flutter Developer",
+        "2.0 г."
+      ]
+    ],
+    "total_exp": "~0.9 г.",
+    "stack": "Dart, Flutter (базовый), верстка по макетам — опыт < 1 года, тестов нет",
+    "edu": "КРСУ, Программная инженерия, 2020",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "warn",
+        "Flutter — только учебные/пет-проекты"
+      ],
+      [
+        "no",
+        "2+ лет коммерческого Flutter — нет"
+      ],
+      [
+        "no",
+        "Тестирование — отсутствует"
+      ],
+      [
+        "warn",
+        "Архитектура и DI — не указаны"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~0.9 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "Офлайн-режим и кэширование — как реализовывали?"
+    ],
+    "status": "review",
+    "date_added": "2026-04-14"
+  },
+  {
+    "id": "сыдыков_16",
+    "name": "Сыдыков Алексей",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Сыдыков_Алексей.pdf",
+    "email": "сыдыков16@email.com",
+    "phone": "+996 575 930-281",
+    "city": "Астана",
+    "tg": "@сыдыков_dev",
+    "exp": [
+      [
+        "2021-02 — н.в.",
+        "SoftLine",
+        "Cross-platform Developer",
+        "0.9 г."
+      ],
+      [
+        "2023-03 — 2021",
+        "Bilim Tech",
+        "Mobile Developer",
+        "2.3 г."
+      ]
+    ],
+    "total_exp": "~3.5 г.",
+    "stack": "Flutter, Dart, BLoC, Clean Architecture, Dio/Retrofit, REST API, Firebase, Hive, go_router, get_it, Freezed, unit/widget tests",
+    "edu": "КГТУ, Программная инженерия, 2021",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.5 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-06-17"
+  },
+  {
+    "id": "беков_17",
+    "name": "Беков Руслан",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Беков_Руслан.pdf",
+    "email": "беков17@email.com",
+    "phone": "+996 562 436-385",
+    "city": "Токмок",
+    "tg": "@беков_dev",
+    "exp": [
+      [
+        "2023-04 — н.в.",
+        "FinApp",
+        "Flutter Engineer",
+        "2.2 г."
+      ],
+      [
+        "2021-04 — 2020",
+        "Akchabar",
+        "Mobile Developer",
+        "1.2 г."
+      ]
+    ],
+    "total_exp": "~5.1 г.",
+    "stack": "Flutter, Dart, BLoC, Clean Architecture, Dio/Retrofit, REST API, Firebase, Hive, go_router, get_it, Freezed, unit/widget tests",
+    "edu": "КГТУ, Программная инженерия, 2022",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.1 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "CI/CD для мобильных релизов — настраивали?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-06-27"
+  },
+  {
+    "id": "иванов_18",
+    "name": "Иванов Эмир",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Иванов_Эмир.pdf",
+    "email": "иванов18@email.com",
+    "phone": "+996 563 453-846",
+    "city": "Токмок",
+    "tg": "@иванов_dev",
+    "exp": [
+      [
+        "2022-01 — н.в.",
+        "StartupHub",
+        "Cross-platform Developer",
+        "1.7 г."
+      ]
+    ],
+    "total_exp": "~0.4 г.",
+    "stack": "Dart, Flutter (базовый), верстка по макетам — опыт < 1 года, тестов нет",
+    "edu": "АУЦА, Программная инженерия, 2023",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "warn",
+        "Flutter — только учебные/пет-проекты"
+      ],
+      [
+        "no",
+        "2+ лет коммерческого Flutter — нет"
+      ],
+      [
+        "no",
+        "Тестирование — отсутствует"
+      ],
+      [
+        "warn",
+        "Архитектура и DI — не указаны"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~0.4 г.",
+    "questions": [
+      "Тестирование во Flutter — какой опыт (unit/widget)?",
+      "Нативная интеграция (platform channels) — был опыт?"
+    ],
+    "status": "review",
+    "date_added": "2026-03-11"
+  },
+  {
+    "id": "касымов_19",
+    "name": "Касымов Олжас",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Касымов_Олжас.pdf",
+    "email": "касымов19@email.com",
+    "phone": "+996 560 512-813",
+    "city": "Алматы",
+    "tg": "@касымов_dev",
+    "exp": [
+      [
+        "2025-04 — н.в.",
+        "SoftLine",
+        "Flutter Engineer",
+        "1.9 г."
+      ],
+      [
+        "2025-06 — 2024",
+        "SoftLine",
+        "Flutter Developer",
+        "0.6 г."
+      ],
+      [
+        "2022-09 — 2022",
+        "Akchabar",
+        "Flutter Engineer",
+        "1.9 г."
+      ]
+    ],
+    "total_exp": "~2.0 г.",
+    "stack": "Flutter, Dart, BLoC/Cubit, Clean Architecture, REST, GraphQL, Firebase, SQLite, AutoRoute, GetIt, CI/CD, widget tests",
+    "edu": "КРСУ, Программная инженерия, 2021",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~2.0 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "CI/CD для мобильных релизов — настраивали?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-06-15"
+  },
+  {
+    "id": "петров_20",
+    "name": "Петров Максим",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Петров_Максим.pdf",
+    "email": "петров20@email.com",
+    "phone": "+996 569 770-429",
+    "city": "Астана",
+    "tg": "@петров_dev",
+    "exp": [
+      [
+        "2021-07 — н.в.",
+        "MegaApp",
+        "Cross-platform Developer",
+        "1.1 г."
+      ]
+    ],
+    "total_exp": "~0.6 г.",
+    "stack": "Flutter (1 пет-проект), Firebase — коммерческого опыта нет",
+    "edu": "МУК, Программная инженерия, 2023",
+    "verdict": "НЕ ПОДХОДИТ",
+    "vc": "verdict-red",
+    "criteria": [
+      [
+        "warn",
+        "Flutter — только учебные/пет-проекты"
+      ],
+      [
+        "no",
+        "2+ лет коммерческого Flutter — нет"
+      ],
+      [
+        "no",
+        "Тестирование — отсутствует"
+      ],
+      [
+        "warn",
+        "Архитектура и DI — не указаны"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~0.6 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "Офлайн-режим и кэширование — как реализовывали?"
+    ],
+    "status": "rejected",
+    "date_added": "2026-06-15"
+  },
+  {
+    "id": "жумабеков_21",
+    "name": "Жумабеков Денис",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Жумабеков_Денис.pdf",
+    "email": "жумабеков21@email.com",
+    "phone": "+996 556 835-813",
+    "city": "Астана",
+    "tg": "@жумабеков_dev",
+    "exp": [
+      [
+        "2020-04 — н.в.",
+        "Akchabar",
+        "Junior Flutter Developer",
+        "1.7 г."
+      ],
+      [
+        "2021-03 — 2020",
+        "TechCorp",
+        "Mobile Developer",
+        "0.9 г."
+      ],
+      [
+        "2024-02 — 2023",
+        "AppFactory",
+        "Cross-platform Developer",
+        "2.5 г."
+      ]
+    ],
+    "total_exp": "~3.1 г.",
+    "stack": "Flutter, Dart, BLoC/Cubit, Clean Architecture, REST, GraphQL, Firebase, SQLite, AutoRoute, GetIt, CI/CD, widget tests",
+    "edu": "МУК, Программная инженерия, 2023",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.1 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "Тестирование во Flutter — какой опыт (unit/widget)?"
+    ],
+    "status": "new",
+    "date_added": "2026-01-23"
+  },
+  {
+    "id": "беков_22",
+    "name": "Беков Азамат",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Беков_Азамат.pdf",
+    "email": "беков22@email.com",
+    "phone": "+996 564 262-861",
+    "city": "Токмок",
+    "tg": "@беков_dev",
+    "exp": [
+      [
+        "2024-04 — н.в.",
+        "Bilim Tech",
+        "Flutter Developer",
+        "1.4 г."
+      ],
+      [
+        "2023-09 — 2024",
+        "RedMobile",
+        "Junior Flutter Developer",
+        "1.4 г."
+      ],
+      [
+        "2023-09 — 2023",
+        "Bilim Tech",
+        "Cross-platform Developer",
+        "2.4 г."
+      ]
+    ],
+    "total_exp": "~5.2 г.",
+    "stack": "Flutter, Dart, BLoC/Cubit, Clean Architecture, REST, GraphQL, Firebase, SQLite, AutoRoute, GetIt, CI/CD, widget tests",
+    "edu": "МУК, Программная инженерия, 2023",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~5.2 г.",
+    "questions": [
+      "Офлайн-режим и кэширование — как реализовывали?",
+      "go_router/AutoRoute — как работаете с deep links?"
+    ],
+    "status": "review",
+    "date_added": "2026-06-18"
+  },
+  {
+    "id": "мырзаев_23",
+    "name": "Мырзаев Талант",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Мырзаев_Талант.pdf",
+    "email": "мырзаев23@email.com",
+    "phone": "+996 560 427-653",
+    "city": "Бишкек",
+    "tg": "@мырзаев_dev",
+    "exp": [
+      [
+        "2020-05 — н.в.",
+        "FinApp",
+        "Junior Flutter Developer",
+        "1.0 г."
+      ]
+    ],
+    "total_exp": "~4.1 г.",
+    "stack": "Flutter, Dart, BLoC/Cubit, Clean Architecture, REST, GraphQL, Firebase, SQLite, AutoRoute, GetIt, CI/CD, widget tests",
+    "edu": "КНУ, Программная инженерия, 2021",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~4.1 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "CI/CD для мобильных релизов — настраивали?"
+    ],
+    "status": "review",
+    "date_added": "2026-06-16"
+  },
+  {
+    "id": "касымов_24",
+    "name": "Касымов Дмитрий",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Касымов_Дмитрий.pdf",
+    "email": "касымов24@email.com",
+    "phone": "+996 559 871-499",
+    "city": "Токмок",
+    "tg": "@касымов_dev",
+    "exp": [
+      [
+        "2021-07 — н.в.",
+        "AppFactory",
+        "Cross-platform Developer",
+        "1.3 г."
+      ],
+      [
+        "2020-07 — 2023",
+        "TechCorp",
+        "Junior Flutter Developer",
+        "2.4 г."
+      ]
+    ],
+    "total_exp": "~3.6 г.",
+    "stack": "Flutter, Dart, BLoC/Cubit, Clean Architecture, REST, GraphQL, Firebase, SQLite, AutoRoute, GetIt, CI/CD, widget tests",
+    "edu": "МУК, Программная инженерия, 2024",
+    "verdict": "ПОДХОДИТ",
+    "vc": "verdict-green",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, BLoC/Riverpod — есть (коммерческий опыт)"
+      ],
+      [
+        "ok",
+        "REST (Dio), Firebase, локальное хранилище — есть"
+      ],
+      [
+        "ok",
+        "Clean Architecture, DI, навигация (go_router) — есть"
+      ],
+      [
+        "ok",
+        "Тесты (unit/widget) — есть"
+      ],
+      [
+        "ok",
+        "Публикация в App Store/Google Play — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.6 г.",
+    "questions": [
+      "Нативная интеграция (platform channels) — был опыт?",
+      "CI/CD для мобильных релизов — настраивали?"
+    ],
+    "status": "review",
+    "date_added": "2026-03-23"
+  },
+  {
+    "id": "иванов_25",
+    "name": "Иванов Искендер",
+    "position": "flutter-middle",
+    "pos_label": "Flutter — ведущий программист",
+    "file": "Иванов_Искендер.pdf",
+    "email": "иванов25@email.com",
+    "phone": "+996 577 572-286",
+    "city": "Бишкек",
+    "tg": "@иванов_dev",
+    "exp": [
+      [
+        "2025-03 — н.в.",
+        "Bilim Tech",
+        "Flutter Engineer",
+        "2.1 г."
+      ],
+      [
+        "2024-09 — 2020",
+        "AppFactory",
+        "Cross-platform Developer",
+        "2.3 г."
+      ],
+      [
+        "2020-02 — 2025",
+        "AppFactory",
+        "Mobile Developer",
+        "1.6 г."
+      ]
+    ],
+    "total_exp": "~3.6 г.",
+    "stack": "Flutter, Dart, GetX, Dio, REST, Firebase — тесты и DI не описаны",
+    "edu": "АУЦА, Программная инженерия, 2023",
+    "verdict": "ЧАСТИЧНО",
+    "vc": "verdict-orange",
+    "criteria": [
+      [
+        "ok",
+        "Flutter/Dart, state management — есть"
+      ],
+      [
+        "ok",
+        "REST, Firebase — есть"
+      ],
+      [
+        "warn",
+        "Тестирование — явно не указано"
+      ],
+      [
+        "warn",
+        "Clean Architecture/DI — частично"
+      ],
+      [
+        "ok",
+        "Публикация в сторы — есть"
+      ]
+    ],
+    "summary": "Flutter-разработчик с опытом ~3.6 г.",
+    "questions": [
+      "Оптимизация производительности списков — что применяли?",
+      "Тестирование во Flutter — какой опыт (unit/widget)?",
+      "Нативная интеграция (platform channels) — был опыт?"
+    ],
+    "status": "invited",
+    "date_added": "2026-03-22"
+  }
+]
